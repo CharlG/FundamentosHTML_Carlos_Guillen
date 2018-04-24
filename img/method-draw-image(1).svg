@@ -1,0 +1,16 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="402.999985" width="581.000014" y="-2.049961" x="-1.500026" stroke-width="1.5" stroke="#87e827" fill="#000"/>
+  <text transform="matrix(6.46935, 0, 0, 4.82615, -735.628, -413.99)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="129.950012" x="134.5" stroke-width="0" stroke="#000000" fill="#87e827"/>
+  <text transform="rotate(-0.0565309, 301.425, 200.04) matrix(8.20864, 0, 0, 8.3849, -1643.11, -1189.34)" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_3" y="172.087754" x="208.084002" stroke-width="0" stroke="#000" fill="#f7eff7">CAGL</text>
+ </g>
+</svg>
